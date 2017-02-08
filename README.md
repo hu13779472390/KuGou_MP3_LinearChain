@@ -1,1 +1,1 @@
-# KuGou_MP3_LinearChain
+#取出酷狗直链地址 可用作QQ背景音乐
